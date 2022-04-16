@@ -6,7 +6,11 @@ Follow Us:
 
 Home Page: http://www.mozongsoft.com
 
-Get it on Google Play for free: https://play.google.com/store/apps/details?id=com.wuweido.cad
+Get UVCAD on Google Play for free: https://play.google.com/store/apps/details?id=com.mozongsoft.uvcad
+
+Get UVCAD from Apple Store for free：https://apps.apple.com/app/id1571088321
+
+Get UVCAD from Amazon App Store: https://www.amazon.com/gp/product/B096MHFV36
 
 YouTube: https://www.youtube.com/mozongsoft
 
